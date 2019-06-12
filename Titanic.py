@@ -4,9 +4,10 @@
 # In[2]:
 
 
-get_ipython().run_line_magic('pylab', 'inline')
+
 import pandas as pd 
 import numpy as np
+import matplotlib.pyplot as plt
 
 
 # In[10]:
